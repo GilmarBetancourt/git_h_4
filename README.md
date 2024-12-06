@@ -1,2 +1,2 @@
 # git_h_4
-H4 - Git hack individual
+H4 - Extraer archivo de stage.
